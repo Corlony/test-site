@@ -1,4 +1,9 @@
 body {
-  background-color: grey;
-  color: lightgreen;
+	color: lightgreen;
+	background-color: grey;
+	text-align: center;
+	margin: 0;
+}
+canvas {
+	background-color: skyblue;
 }
